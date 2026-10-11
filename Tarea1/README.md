@@ -79,6 +79,27 @@ Apagar un contenedor, detiene por completo la ejecución de su proceso, pero con
 <img width="1631" height="631" alt="05-programas" src="https://github.com/user-attachments/assets/45c698d4-319c-475c-98ce-013f5376cc30" />
 
 
+para compilar los programas 
+
+suma.c
+
+**gcc suma -o suma**
+
+**./suma**
+
+suma.py
+
+**python3 suma.py**
+
+suma.m
+
+**octave  suma.m**
+
+calculadora.c
+
+gcc calculadora.c -o
+
+./calculadora
 
 
 
