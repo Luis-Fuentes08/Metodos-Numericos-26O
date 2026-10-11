@@ -66,6 +66,19 @@ Apagar un contenedor, detiene por completo la ejecución de su proceso, pero con
 •	Python: Se utiliza para comprobar los resultados y poder generar las figuras e los reportes
 
 •	C con GCC: es un lenguaje de programación compilado, obliga a declarar los tipos, decidir la tolerancia y reservar la memoria
+<img width="1617" height="837" alt="01-up" src="https://github.com/user-attachments/assets/00fb0bb6-4b3f-4df9-b275-7d6b427d5cf9" />
+
+
+
+
+
+<img width="1556" height="473" alt="02-ps" src="https://github.com/user-attachments/assets/10b2e911-8fce-44b8-8507-0fdc11a804fd" />
+<img width="1552" height="557" alt="03- versiones" src="https://github.com/user-attachments/assets/bdc52400-84f3-46a2-b43a-932bf05d058d" />
+<img width="1607" height="715" alt="04-docker-deskop" src="https://github.com/user-attachments/assets/69ab3ba6-9e90-41ef-a074-1e6b47d4369d" />
+<img width="1392" height="698" alt="05-" src="https://github.com/user-attachments/assets/f06a899f-1cf6-4a7c-8f51-aa9c0c98332c" />
+<img width="1631" height="631" alt="05-programas" src="https://github.com/user-attachments/assets/45c698d4-319c-475c-98ce-013f5376cc30" />
+
+
 
 
 
