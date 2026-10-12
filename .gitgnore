@@ -1,0 +1,17 @@
+# ejecutables de C
+suma
+calculadora
+*.out
+*.exe
+
+# archivos objeto
+*.o
+
+# Python
+_pycache_/
+
+# Octave
+octave-workspace
+
+# Práctica 1
+practica1/maclaurin
